@@ -8,11 +8,27 @@
     "target_path": "device/xiaomi/sm6250-common"
   },
   {
-    "repository": "android_vendor_xiaomi_miatoll",
-    "target_path": "vendor/xiaomi/miatoll"
+    "repository": "android_vendor_xiaomi_sm6250",
+    "target_path": "vendor/xiaomi"
   },
   {
-    "repository": "android_vendor_xiaomi_sm6250-common",
-    "target_path": "vendor/xiaomi/sm6250-common"
-  }
+     "repository":"ArrowOS/android_hardware_qcom_display",
+     "target_path":"hardware/qcom-caf/sm8150/display",
+     "branch":"arrow-11.0-caf-sm8150",
+     "remote":"github"
+  },
+  {
+     "repository":"ArrowOS/android_hardware_qcom_audio",
+     "target_path":"hardware/qcom-caf/sm8150/audio",
+     "branch":"arrow-11.0-caf-sm8150",
+     "remote":"github"
+  },  
+  {
+     "repository":"ArrowOS/android_hardware_qcom_media",
+     "target_path":"hardware/qcom-caf/sm8150/media",
+     "branch":"arrow-11.0-caf-sm8150",
+     "remote":"github"
+  },    
 ]
+
+
