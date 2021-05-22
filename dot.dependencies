@@ -17,22 +17,22 @@
   },
   {
      "repository":"ShreehariVaasishta/android_hardware_qcom_display",
-     "target_path":"hardware/qcom-caf/sm8150/display",
+     "target_path":"hardware/qcom-caf/sm8150-miatoll/display",
      "branch":"arrow-11.0-caf-sm8150",
      "remote":"github"
   },
   {
      "repository":"ShreehariVaasishta/android_hardware_qcom_audio",
-     "target_path":"hardware/qcom-caf/sm8150/audio",
+     "target_path":"hardware/qcom-caf/sm8150-miatoll/audio",
      "branch":"arrow-11.0-caf-sm8150",
      "remote":"github"
   },  
   {
      "repository":"ShreehariVaasishta/android_hardware_qcom_media",
-     "target_path":"hardware/qcom-caf/sm8150/media",
+     "target_path":"hardware/qcom-caf/sm8150-miatoll/media",
      "branch":"arrow-11.0-caf-sm8150",
      "remote":"github"
-  },    
+  }    
 ]
 
 

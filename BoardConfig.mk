@@ -15,6 +15,9 @@ DEVICE_PATH := device/xiaomi/miatoll
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := miatoll
 
+# Override hals
+OVERRIDE_QCOM_HARDWARE_VARIANT := sm8150-miatoll
+
 # Init
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_miatoll
 TARGET_RECOVERY_DEVICE_MODULES := libinit_miatoll
