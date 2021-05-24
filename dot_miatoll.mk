@@ -22,3 +22,5 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
+# Inherit DotOS Official stuff
+TARGET_FACE_UNLOCK_SUPPORTED := true
